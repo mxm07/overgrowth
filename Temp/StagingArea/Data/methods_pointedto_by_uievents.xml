@@ -1,0 +1,18 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="PlayScript">
+			<method name="nextLevel"/>
+			<method name="quit"/>
+			<method name="nextLevel"/>
+		</type>
+		<type fullname="MusicScript">
+			<method name="updateMusic"/>
+		</type>
+		<type fullname="GameOverPanelToggle">
+			<method name="OnClickMainMenu"/>
+			<method name="OnClickMainMenu"/>
+			<method name="OnClickRetry"/>
+			<method name="OnClickRetry"/>
+		</type>
+	</assembly>
+</linker>
